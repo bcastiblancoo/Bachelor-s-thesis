@@ -1,6 +1,6 @@
 # Bachelor-s-thesis
 
-This repository contains my Bachelor's thesis work document, titled "Thermal leptogenesis in the type-I Dirac seesaw extension to the DFSZ axion model for dark matter"
+This repository contains my Bachelor's thesis work document, titled "Thermal leptogenesis in the type-I Dirac seesaw extension to the DFSZ axion model for dark matter". Link in Google Drive: https://drive.google.com/file/d/1ZKikk7BBdSC9gHrxAvJtC4-r57_cjog4/view?usp=sharing
 
 Abstract: 
 
